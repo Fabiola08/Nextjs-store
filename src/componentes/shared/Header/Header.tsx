@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const Header = () => {
 
-    console.log( 'Homa mundo Header' )
+    console.log( 'Hola mundo Header' )
     return( <header>
         <nav>
           <ul>
