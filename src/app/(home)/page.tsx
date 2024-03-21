@@ -7,10 +7,6 @@ export default function Home() {
   return (
     <main >
 
-      <Hero />
-
-      <Description />
-
       <MainProducts />
 
     </main>
