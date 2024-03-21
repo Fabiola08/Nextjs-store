@@ -8,17 +8,27 @@ export const Header = () => {
         <nav>
           <ul>
 
-            <Link href="/">
+           <li>
+              <Link href="/">
 
-            <li>Home</li>
+                Home
           
-            </Link>
+              </Link>
+            </li>
+            <li>
+              <Link href="/store">
 
-            <Link href="/store">
+                Store
 
-            <li>Store</li>
+              </Link>
+            </li>
+            <li>
+              <Link href="/test">
 
-            </Link>
+                Test
+
+              </Link>
+            </li>
             
           </ul>
         </nav>
